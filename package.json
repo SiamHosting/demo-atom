@@ -1,13 +1,15 @@
 {
-  "name": "demoatom",
+  "name": "demoatom for students",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "ตัวอย่างประกอบการสอนออนไลน์",
   "keywords": [
-    "syntax",
-    "theme"
+    "สยามโฮสติ้ง",
+    "อะตอมไทยแลนด์",
+    "คีย์เวิร์ด 3",
+    "คีย์เวิร์ด 4"
   ],
-  "repository": "https://github.com/atom/demoatom",
+  "repository": "https://github.com/SiamHosting/demoatom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
