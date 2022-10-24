@@ -1,5 +1,16 @@
-# demoatom theme
+# หัวข้อ H1
+เนื้อหา
 
-A short description of your theme.
+## [เล่นหมากรุก](https://tdelphi.com)
+## [Google](่https://google.co.th)
+## [ติดต่อเรา](https://thaibg.com)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## รายละเอียดสินค้า
+- กระดานหมากรุก
+- ตัวหมากรุก
+- นาฬิกา จับเวลา
+
+## สมัครแข่งชัน
+1. กรอกใบสมัคร
+2. สำเนาบัตร
+3. รูปถ่าย
