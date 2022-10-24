@@ -9,7 +9,7 @@
     "คีย์เวิร์ด 3",
     "คีย์เวิร์ด 4"
   ],
-  "repository": "https://github.com/SiamHosting/demoatom",
+  "repository": "https://github.com/SiamHosting/demo-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
